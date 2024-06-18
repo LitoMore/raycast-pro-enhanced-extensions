@@ -1,8 +1,6 @@
-# raycast-pro-enhanced-extensions
+# Raycast Pro Enhanced Extensions
 
-List of Raycast Pro enhanced extensions
-
-[![raycast-pro-enhanced-badge]][raycast-pro-enhanced-link]
+List of [Raycast Pro](https://raycast.com/pro) enhanced extensions
 
 ## Enhanced Extensions
 
@@ -17,6 +15,10 @@ Show the world your extension is enhanced with Raycast Pro.
 ```markdown
 [![](https://shields.io/badge/Raycast-Pro_Enhanced-eee?labelColor=FF6363&logo=raycast&logoColor=fff&style=flat-square)](https://github.com/LitoMore/raycast-pro-extensions)
 ```
+
+## Contributing
+
+For adding extensions to this list, please refer to [CONTRIBUTING.md](https://github.com/LitoMore/raycast-pro-enhanced-extensions/blob/main/CONTRIBUTING.md).
 
 ## License
 
