@@ -4,6 +4,7 @@ List of [Raycast Pro](https://raycast.com/pro) enhanced extensions
 
 ## Enhanced Extensions
 
+- [Brand Icons](https://raycast.com/litomore/simple-icons) - Browse, search, and copy free SVG icons for popular brands
 - [United Nations](https://raycast.com/litomore/united-nations) - Peace, dignity and equality on a healthy planet
 
 ## Badge
