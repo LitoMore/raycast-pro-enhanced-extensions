@@ -18,7 +18,7 @@ Show the world your extension is enhanced with Raycast Pro.
 [![raycast-pro-enhanced-badge]][raycast-pro-enhanced-link]
 
 ```markdown
-[![](https://shields.io/badge/Raycast-Pro_Enhanced-eee?labelColor=FF6363&logo=raycast&logoColor=fff&style=flat-square)](https://github.com/LitoMore/raycast-pro-extensions)
+[![](https://shields.io/badge/Raycast-Pro_Enhanced-eee?labelColor=FF6363&logo=raycast&logoColor=fff&style=flat-square)](https://github.com/LitoMore/raycast-pro-enhanced-extensions)
 ```
 
 ## Contributing
