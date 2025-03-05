@@ -5,6 +5,7 @@ List of [Raycast Pro](https://raycast.com/pro) enhanced extensions
 ## Enhanced Extensions
 
 - [Brand Icons](https://raycast.com/litomore/simple-icons) - Browse, search, and copy free SVG icons for popular brands
+- [Language Detector](https://raycast.com/litomore/language-detector) - Detect languages through Raycast AI or third-party language detectors
 - [United Nations](https://raycast.com/litomore/united-nations) - Peace, dignity and equality on a healthy planet
 
 ## Useful Utilities
